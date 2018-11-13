@@ -1,5 +1,6 @@
 # Different things done only for fun 
-* Comp. Science task
+* Comp. Science tasks
 * Infinite loops
 * Silly code
+<br/>
  HAVE FUN BABES
