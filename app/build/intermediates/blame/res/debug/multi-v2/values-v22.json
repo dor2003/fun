@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/bb8d0ff9ddbd6f34ef9ac9aad6a0c697/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}

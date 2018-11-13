@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/ae25b0c23e4f8b9644e632db21ce6f2c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0-alpha01] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/material-1.1.0-alpha01.aar/ea67fb985d9795f6760feb386210394d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/bb8d0ff9ddbd6f34ef9ac9aad6a0c697/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/fragment-1.0.0.aar/a818b30bda8d76383bbdd023242285fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/a345596707219bb2902899cdb9486f6c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d616e93add190f0c19273d57ab6ea7e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/8f9cc88106e784a67472b3d7c8d4f45b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/ef35e2a523c1e98f6eb128919dbf62bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/transition-1.0.0.aar/76666ccdfc29883ff73382e3dbeb9352/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/cardview-1.0.0.aar/878ac511c753cd61d760a5b400e73183/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f5770b06460b29b96bb95a395b60066f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/loader-1.0.0.aar/90681af393850c0e6d156db419ad0e4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c0b87bc065696fed6d959f2a63b42f0c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/print-1.0.0.aar/d5aa11a10fe72929af4177477a555352/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/6973e54bfb06a8f4464d4f5bc707b503/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/7ad33189e9e95ce1fa8779a64c9ea161/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/1017ae9773f0a0b4a0e4187d442c778c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/0763b37cd3513b106ea09d499b587523/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2a019cd0a0ca51ec2c5d6e78d445f863/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/customview-1.0.0.aar/0aaa5569a7d8e192781be589dcbdaeb4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0745dfebc58a63d9a9b13bd07ff23729/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0dd7f1165fff68f9824ab4a2680152c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/5b02b998554301a184e661433e8f0465/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/a576c6f17c83ad73845e931f80e0f70f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/249c8d8cb441a4d5f2dd532d422c5939/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/58198879128688a028d2e99eda7f66b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e6cf8465f18a003b9310c47749dd19f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/f31d6a1ad56b5bca2cb9ad597b37c3e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/core-1.0.1.aar/fc8e4646ec544810454606f4cbc419c4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/1ec78ca6a73b33aff80014e8a9e5e696/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f3f6795cce67c43ac29c05a2b7ea6449/AndroidManifest.xml:17:1-25:12
+INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/ae25b0c23e4f8b9644e632db21ce6f2c/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/ae25b0c23e4f8b9644e632db21ce6f2c/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha01] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/material-1.1.0-alpha01.aar/ea67fb985d9795f6760feb386210394d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha01] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/material-1.1.0-alpha01.aar/ea67fb985d9795f6760feb386210394d/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.1] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/core-1.0.1.aar/fc8e4646ec544810454606f4cbc419c4/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/core-1.0.1.aar/fc8e4646ec544810454606f4cbc419c4/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f3f6795cce67c43ac29c05a2b7ea6449/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f3f6795cce67c43ac29c05a2b7ea6449/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/core-1.0.1.aar/fc8e4646ec544810454606f4cbc419c4/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.dor2003.currencies.MainActivity
+ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/ae25b0c23e4f8b9644e632db21ce6f2c/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/ae25b0c23e4f8b9644e632db21ce6f2c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0-alpha01] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/material-1.1.0-alpha01.aar/ea67fb985d9795f6760feb386210394d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha01] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/material-1.1.0-alpha01.aar/ea67fb985d9795f6760feb386210394d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/bb8d0ff9ddbd6f34ef9ac9aad6a0c697/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/bb8d0ff9ddbd6f34ef9ac9aad6a0c697/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/fragment-1.0.0.aar/a818b30bda8d76383bbdd023242285fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/fragment-1.0.0.aar/a818b30bda8d76383bbdd023242285fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/a345596707219bb2902899cdb9486f6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/a345596707219bb2902899cdb9486f6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d616e93add190f0c19273d57ab6ea7e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d616e93add190f0c19273d57ab6ea7e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/8f9cc88106e784a67472b3d7c8d4f45b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/8f9cc88106e784a67472b3d7c8d4f45b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/ef35e2a523c1e98f6eb128919dbf62bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/ef35e2a523c1e98f6eb128919dbf62bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/transition-1.0.0.aar/76666ccdfc29883ff73382e3dbeb9352/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/transition-1.0.0.aar/76666ccdfc29883ff73382e3dbeb9352/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/cardview-1.0.0.aar/878ac511c753cd61d760a5b400e73183/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/cardview-1.0.0.aar/878ac511c753cd61d760a5b400e73183/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f5770b06460b29b96bb95a395b60066f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f5770b06460b29b96bb95a395b60066f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/loader-1.0.0.aar/90681af393850c0e6d156db419ad0e4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/loader-1.0.0.aar/90681af393850c0e6d156db419ad0e4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c0b87bc065696fed6d959f2a63b42f0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c0b87bc065696fed6d959f2a63b42f0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/print-1.0.0.aar/d5aa11a10fe72929af4177477a555352/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/print-1.0.0.aar/d5aa11a10fe72929af4177477a555352/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/6973e54bfb06a8f4464d4f5bc707b503/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/6973e54bfb06a8f4464d4f5bc707b503/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/7ad33189e9e95ce1fa8779a64c9ea161/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/7ad33189e9e95ce1fa8779a64c9ea161/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/1017ae9773f0a0b4a0e4187d442c778c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/1017ae9773f0a0b4a0e4187d442c778c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/0763b37cd3513b106ea09d499b587523/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/0763b37cd3513b106ea09d499b587523/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2a019cd0a0ca51ec2c5d6e78d445f863/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2a019cd0a0ca51ec2c5d6e78d445f863/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/customview-1.0.0.aar/0aaa5569a7d8e192781be589dcbdaeb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/customview-1.0.0.aar/0aaa5569a7d8e192781be589dcbdaeb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0745dfebc58a63d9a9b13bd07ff23729/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0745dfebc58a63d9a9b13bd07ff23729/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0dd7f1165fff68f9824ab4a2680152c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0dd7f1165fff68f9824ab4a2680152c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/5b02b998554301a184e661433e8f0465/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/5b02b998554301a184e661433e8f0465/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/a576c6f17c83ad73845e931f80e0f70f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/a576c6f17c83ad73845e931f80e0f70f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/249c8d8cb441a4d5f2dd532d422c5939/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/249c8d8cb441a4d5f2dd532d422c5939/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/58198879128688a028d2e99eda7f66b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/58198879128688a028d2e99eda7f66b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e6cf8465f18a003b9310c47749dd19f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e6cf8465f18a003b9310c47749dd19f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/f31d6a1ad56b5bca2cb9ad597b37c3e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/f31d6a1ad56b5bca2cb9ad597b37c3e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/core-1.0.1.aar/fc8e4646ec544810454606f4cbc419c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/core-1.0.1.aar/fc8e4646ec544810454606f4cbc419c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/1ec78ca6a73b33aff80014e8a9e5e696/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/1ec78ca6a73b33aff80014e8a9e5e696/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f3f6795cce67c43ac29c05a2b7ea6449/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dor2003/.gradle/wrapper/dists/gradle-5.0-milestone-1/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f3f6795cce67c43ac29c05a2b7ea6449/AndroidManifest.xml:20:5-44
+INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+		ADDED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dor2003/Desktop/Daria/Projects/AndroidStudioProjects/Currencies/app/src/main/AndroidManifest.xml
